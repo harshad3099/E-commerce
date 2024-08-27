@@ -1,0 +1,15 @@
+E:\Demo\E-commerce\ECommerceApp\src\ECommerceApp.Data\obj\Debug\net8.0\ECommerceApp.Data.csproj.AssemblyReference.cache
+E:\Demo\E-commerce\ECommerceApp\src\ECommerceApp.Data\obj\Debug\net8.0\ECommerceApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Demo\E-commerce\ECommerceApp\src\ECommerceApp.Data\obj\Debug\net8.0\ECommerceApp.Data.AssemblyInfoInputs.cache
+E:\Demo\E-commerce\ECommerceApp\src\ECommerceApp.Data\obj\Debug\net8.0\ECommerceApp.Data.AssemblyInfo.cs
+E:\Demo\E-commerce\ECommerceApp\src\ECommerceApp.Data\obj\Debug\net8.0\ECommerceApp.Data.csproj.CoreCompileInputs.cache
+E:\Demo\E-commerce\ECommerceApp\src\ECommerceApp.Data\obj\Debug\net8.0\ECommerceApp.Data.sourcelink.json
+E:\Demo\E-commerce\ECommerceApp\src\ECommerceApp.Data\bin\Debug\net8.0\ECommerceApp.Data.deps.json
+E:\Demo\E-commerce\ECommerceApp\src\ECommerceApp.Data\bin\Debug\net8.0\ECommerceApp.Data.runtimeconfig.json
+E:\Demo\E-commerce\ECommerceApp\src\ECommerceApp.Data\bin\Debug\net8.0\ECommerceApp.Data.dll
+E:\Demo\E-commerce\ECommerceApp\src\ECommerceApp.Data\bin\Debug\net8.0\ECommerceApp.Data.pdb
+E:\Demo\E-commerce\ECommerceApp\src\ECommerceApp.Data\obj\Debug\net8.0\ECommerceApp.Data.dll
+E:\Demo\E-commerce\ECommerceApp\src\ECommerceApp.Data\obj\Debug\net8.0\refint\ECommerceApp.Data.dll
+E:\Demo\E-commerce\ECommerceApp\src\ECommerceApp.Data\obj\Debug\net8.0\ECommerceApp.Data.pdb
+E:\Demo\E-commerce\ECommerceApp\src\ECommerceApp.Data\obj\Debug\net8.0\ECommerceApp.Data.genruntimeconfig.cache
+E:\Demo\E-commerce\ECommerceApp\src\ECommerceApp.Data\obj\Debug\net8.0\ref\ECommerceApp.Data.dll
